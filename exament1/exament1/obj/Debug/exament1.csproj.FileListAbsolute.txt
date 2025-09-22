@@ -1,0 +1,7 @@
+C:\Users\PC\Desktop\examenfa\exament1\exament1\bin\Debug\exament1.exe.config
+C:\Users\PC\Desktop\examenfa\exament1\exament1\bin\Debug\exament1.exe
+C:\Users\PC\Desktop\examenfa\exament1\exament1\bin\Debug\exament1.pdb
+C:\Users\PC\Desktop\examenfa\exament1\exament1\obj\Debug\exament1.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\examenfa\exament1\exament1\obj\Debug\exament1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\examenfa\exament1\exament1\obj\Debug\exament1.exe
+C:\Users\PC\Desktop\examenfa\exament1\exament1\obj\Debug\exament1.pdb
